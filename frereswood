@@ -1,0 +1,748 @@
+
+<!-- This page is cached by the Hummingbird Performance plugin v3.4.5 - https://wordpress.org/plugins/hummingbird-performance/. --><!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+            <script data-no-defer="1" data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer>
+                const ctPublicFunctions = {"_ajax_nonce":"998d1150ef","_rest_nonce":"d92afd9c3f","_ajax_url":"\/wp-admin\/admin-ajax.php","_rest_url":"https:\/\/frereswood.com\/wp-json\/","data__cookies_type":"none","data__ajax_type":"admin_ajax","text__wait_for_decoding":"Decoding the contact data, let us a few seconds to finish. Anti-Spam by CleanTalk.","cookiePrefix":""}
+            </script>
+        
+            <script data-no-defer="1" data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer>
+                const ctPublic = {"_ajax_nonce":"998d1150ef","settings__forms__check_internal":"0","settings__forms__check_external":"0","settings__forms__search_test":"1","blog_home":"https:\/\/frereswood.com\/","pixel__setting":"3","pixel__enabled":true,"pixel__url":"https:\/\/moderate6.cleantalk.org\/pixel\/5c3345eee75cf28dccbea765dfc7573c.gif","data__email_check_before_post":"1","data__cookies_type":"none","data__key_is_ok":true,"data__visible_fields_required":true,"data__to_local_storage":{"apbct_cookies_test":"%7B%22cookies_names%22%3A%5B%22apbct_timestamp%22%2C%22apbct_site_landing_ts%22%5D%2C%22check_value%22%3A%225c0667fc9fa98abbb0230134d11a16b8%22%7D"}}
+            </script>
+        <script>                function apbct_attach_event_handler__backend(elem, event, callback) {                    if(typeof window.addEventListener === "function") elem.addEventListener(event, callback);                    else                                                elem.attachEvent(event, callback);                }                apbct_attach_event_handler__backend(document, 'DOMContentLoaded', function(){                    if (typeof apbctLocalStorage === "object" && ctPublic.data__key_is_ok) {                        apbctLocalStorage.set('ct_checkjs', 'd409093572e8df88dedc4e82236bab29b77d8aa50ca463fc189f88ff34b4499e', true );                    } else {                        console.log('APBCT ERROR: apbctLocalStorage object is not loaded.');                    }                  });    </script>
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Blog - Freres Engineered Wood</title>
+	<meta name="description" content="We specialize in creating high quality veneer-based engineered wood products. Visit our Blog page to learn more!" />
+	<link rel="canonical" href="https://frereswood.com/blog/" />
+	<link rel="next" href="https://frereswood.com/blog/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Blog - Freres Engineered Wood" />
+	<meta property="og:description" content="We specialize in creating high quality veneer-based engineered wood products. Visit our Blog page to learn more!" />
+	<meta property="og:url" content="https://frereswood.com/blog/" />
+	<meta property="og:site_name" content="Freres Engineered Wood" />
+	<meta property="og:image" content="https://frereswood.com/wp-content/uploads/2022/03/img-plywood-forklift-logo.jpg" />
+	<meta property="og:image:width" content="1500" />
+	<meta property="og:image:height" content="1000" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","CollectionPage"],"@id":"https://frereswood.com/blog/","url":"https://frereswood.com/blog/","name":"Blog - Freres Engineered Wood","isPartOf":{"@id":"https://frereswood.com/#website"},"datePublished":"2019-09-17T18:46:44+00:00","dateModified":"2022-05-06T22:33:26+00:00","description":"We specialize in creating high quality veneer-based engineered wood products. Visit our Blog page to learn more!","breadcrumb":{"@id":"https://frereswood.com/blog/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://frereswood.com/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://frereswood.com/"},{"@type":"ListItem","position":2,"name":"Blog"}]},{"@type":"WebSite","@id":"https://frereswood.com/#website","url":"https://frereswood.com/","name":"Freres Engineered Wood","description":"Manufacturer&#039;s of High Quality Wood Products","publisher":{"@id":"https://frereswood.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://frereswood.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://frereswood.com/#organization","name":"Freres Engineered Wood","url":"https://frereswood.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://frereswood.com/#/schema/logo/image/","url":"https://frereswood.com/wp-content/uploads/2019/09/freres-lumber-logo.png","contentUrl":"https://frereswood.com/wp-content/uploads/2019/09/freres-lumber-logo.png","width":405,"height":160,"caption":"Freres Engineered Wood"},"image":{"@id":"https://frereswood.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/freresengineeredwood","https://www.instagram.com/freresengineeredwood","https://www.linkedin.com/company/freres-engineered-wood","https://www.youtube.com/frereswood"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://frereswood.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://frereswood.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://frereswood.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='safe-svg-block-frontend-css' href='https://frereswood.com/wp-content/plugins/safe-svg//dist/safe-svg-block-frontend.css?ver=2.1.0' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}body { margin: 0;--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 800px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ct_public_css-css' href='https://frereswood.com/wp-content/plugins/cleantalk-spam-protect/css/cleantalk-public.min.css?ver=6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='email-subscribers-css' href='https://frereswood.com/wp-content/plugins/email-subscribers-premium/lite/public/css/email-subscribers-public.css?ver=4.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ttt-pnwc-css' href='https://frereswood.com/wp-content/plugins/popup-notices-for-woocommerce/src/assets/dist/frontend/css/ttt-pnwc.min.css?ver=230327-223628' type='text/css' media='all' />
+<style id='ttt-pnwc-inline-css' type='text/css'>
+.woocommerce-error, .woocommerce-message, .woocommerce-info{display:none !important}
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woo-variation-swatches-css' href='https://frereswood.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1679956278' type='text/css' media='all' />
+<style id='woo-variation-swatches-inline-css' type='text/css'>
+:root {
+--wvs-tick:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 2px rgb(0 0 0 / .8))' xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 30 30'%3E%3Cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4' d='M4 16L11 23 27 7'/%3E%3C/svg%3E");
+
+--wvs-cross:url("data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 5px rgb(255 255 255 / .6))' xmlns='http://www.w3.org/2000/svg' width='72px' height='72px' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23ff0000' stroke-linecap='round' stroke-width='0.6' d='M5 5L19 19M19 5L5 19'/%3E%3C/svg%3E");
+--wvs-single-product-item-width:30px;
+--wvs-single-product-item-height:30px;
+--wvs-single-product-item-font-size:16px}
+</style>
+<link rel='stylesheet' id='cardwellpress-styles-css' href='https://frereswood.com/wp-content/themes/cardwellpress/assets/css/theme.css?ver=1.8.0.1645056806' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://frereswood.com/wp-content/plugins/tablepress/css/build/default.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='es_starter_main_css-css' href='https://frereswood.com/wp-content/plugins/email-subscribers-premium/starter/assets/css/starter-main.css?ver=4.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' data-pagespeed-no-defer src='https://frereswood.com/wp-content/plugins/cleantalk-spam-protect/js/apbct-public-bundle.min.js?ver=6.6' id='ct_public_functions-js'></script>
+<script type='text/javascript' id='email-subscribers-js-extra'>
+/* <![CDATA[ */
+var es_data = {"messages":{"es_empty_email_notice":"Please enter email address","es_rate_limit_notice":"You need to wait for sometime before subscribing again","es_single_optin_success_message":"Successfully Subscribed.","es_email_exists_notice":"Email Address already exists!","es_unexpected_error_notice":"Oops.. Unexpected error occurred.","es_invalid_email_notice":"Invalid email address","es_try_later_notice":"Please try after some time"},"es_ajax_url":"https:\/\/frereswood.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/email-subscribers-premium/lite/public/js/email-subscribers-public.js?ver=4.6.6' id='email-subscribers-js'></script>
+<link rel="https://api.w.org/" href="https://frereswood.com/wp-json/" /><style type="text/css">
+                    .ctl-bullets-container {
+                display: block;
+                position: fixed;
+                right: 0;
+                height: 100%;
+                z-index: 1049;
+                font-weight: normal;
+                height: 70vh;
+                overflow-x: hidden;
+                overflow-y: auto;
+                margin: 15vh auto;
+            }</style>		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Freres Engineered Wood - Manufacturer&#039;s of High Quality Wood Products">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;1,500;1,700&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+
+  
+  <!-- Google Tag Manager -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WMKJJPJ');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body data-rsssl=1 class="blog theme-cardwellpress woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-cardwellpress wvs-show-label wvs-tooltip group-blog hfeed">
+    <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMKJJPJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><!--[if IE]>
+  <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+<![endif]-->
+<noscript><p class="browsehappy">For full functionality of this site please enable JavaScript <a href="http://enable-javascript.com/">Here</a></p></noscript>
+<div class="site" id="page">
+	<a class="skip-link visually-hidden visually-hidden-focusable" href="#main">Skip to content</a>
+
+	
+  	<nav class="navbar navbar-light bg-white " id="sitehdr">
+		<div class="container-fluid g-0">
+
+            <button type="button" class="navbar__search-toggle navbar__search-toggle--mobile mb-0 d-lg-none" data-bs-toggle="modal" data-bs-target="#modal-search"><svg viewBox="0 0 27 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M19.902 11a8.25 8.25 0 11-16.5 0 8.25 8.25 0 0116.5 0zm-.898 8.183A10.96 10.96 0 0111.652 22c-6.075 0-11-4.925-11-11s4.925-11 11-11 11 4.925 11 11c0 2.258-.68 4.358-1.847 6.104l5.623 4.921a1.375 1.375 0 11-1.81 2.07l-5.614-4.912z" fill="#3C2415"/></svg></button>
+
+            <a class="navbar-brand" rel="home" href="https://frereswood.com/" title="Freres Engineered Wood" itemprop="url">
+        <img class="navbar-brand__logomark skiplazyload" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/frs-logomark.svg" alt="Freres Engineered Wood logo">
+        <img class="navbar-brand__logo skiplazyload" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/frs-logo.svg" alt="Freres Engineered Wood logo">
+      </a>
+
+      <div class="navbar__content">
+        <div class="navbar__row navbar__row--top d-none d-lg-flex">
+
+          <div class="social-group">
+  <ul class="social-group__list">
+    <li class="social-group__list-item social-group__list-item--facebook"><a class="social-group__link" href="https://www.facebook.com/freresengineeredwood" title="Facebook" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" alt="facebook logo"></noscript></noscript></noscript></span></a><li class="social-group__list-item social-group__list-item--youtube"><a class="social-group__link" href="https://www.youtube.com/frereswood" title="Youtube" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" alt="Youtube logo"></noscript></noscript></noscript></span></a></li
+    ></li><li class="social-group__list-item social-group__list-item--instagram"><a class="social-group__link" href="https://www.instagram.com/freresengineeredwood" title="Instagram" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" alt="instagram logo"></noscript></noscript></noscript></span></a></li><li class="social-group__list-item social-group__list-item--linkedin"><a class="social-group__link" href="https://www.linkedin.com/company/freres-engineered-wood" title="LinkedIn" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" alt="linkedin logo"></noscript></noscript></noscript></span></a></li>
+  </ul>
+</div><!--/social__group-->
+
+          
+                    <button type="button" class="navbar__search-toggle navbar__search-toggle--desktop" data-bs-toggle="modal" data-bs-target="#modal-search"><svg viewBox="0 0 27 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M19.902 11a8.25 8.25 0 11-16.5 0 8.25 8.25 0 0116.5 0zm-.898 8.183A10.96 10.96 0 0111.652 22c-6.075 0-11-4.925-11-11s4.925-11 11-11 11 4.925 11 11c0 2.258-.68 4.358-1.847 6.104l5.623 4.921a1.375 1.375 0 11-1.81 2.07l-5.614-4.912z" fill="#3C2415"/></svg></button>
+
+        </div><!--/navbar__row-->
+        <div class="navbar__row navbar__row--btm">
+
+                    <div id="primary-menu-wrap" class="d-none d-lg-flex"><ul id="primary-menu" class="nav ml-auto"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-26656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26656 nav-item"><a title="About" href="https://frereswood.com/about-us/" class="nav-link">About</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-27208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27208 nav-item"><a title="Mass Ply" href="https://frereswood.com/products-and-services/mass-ply-products/" class="nav-link">Mass Ply</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-27210" class="menu-item menu-item-type-post_type_archive menu-item-object-cpt_project menu-item-27210 nav-item"><a title="Projects" href="https://frereswood.com/project/" class="nav-link">Projects</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-804 nav-item"><a title="Careers" href="https://frereswood.com/careers/" class="nav-link">Careers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-19711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19711 nav-item"><a title="Resources" href="https://frereswood.com/resources/" class="nav-link">Resources</a></li>
+</ul></div>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar"  aria-label="Toggle navigation">
+            <img  alt="menu" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-menu.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-menu.svg" alt="menu"></noscript>
+          </button>
+
+        </div><!--/navbar__row-->
+      </div><!--/navbar__content-->
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+        <div class="offcanvas-header">
+          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+
+          <p class="offcanvas__logo"><img  alt="Freres Engineered Wood logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/frs-logo-notag.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/frs-logo-notag.svg" alt="Freres Engineered Wood logo"></noscript></p>
+
+          
+              			<div id="full-menu-wrap" class="menu-full-menu-container"><ul id="full-menu" class="nav flex-column"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-25737 nav-item"><span title="About" toggle="1" class="drilldown-toggle nav-link">About</span>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13581 nav-item"><a title="Overview" href="https://frereswood.com/about-us/" class="drilldown-item">Overview</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13585 nav-item"><a title="Our Roots" href="https://frereswood.com/about-us/history/" class="drilldown-item">Our Roots</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25681 nav-item"><a title="Values" href="https://frereswood.com/about-us/stewardship/" class="drilldown-item">Values</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25687 nav-item"><a title="Vision" href="https://frereswood.com/about-us/vision/" class="drilldown-item">Vision</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25686 nav-item"><a title="Freres Foundation" href="https://frereswood.com/about-us/foundation/" class="drilldown-item">Freres Foundation</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13584 nav-item"><a title="Executive Team" href="https://frereswood.com/about-us/executive/" class="drilldown-item">Executive Team</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-13590 nav-item"><span title="Products" toggle="1" class="drilldown-toggle nav-link">Products</span>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25689 nav-item"><a title="Overview" href="https://frereswood.com/products-and-services/" class="drilldown-item">Overview</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-20107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-20107 nav-item"><span title="Mass Ply" toggle="1" class="drilldown-toggle nav-link">Mass Ply</span>
+	<ul class="dropdown-menu"  role="menu">
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25733 nav-item"><a title="Overview" href="https://frereswood.com/products-and-services/mass-ply-products/" class="drilldown-item">Overview</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25731 nav-item"><a title="Mass Ply Panel" href="https://frereswood.com/products-and-services/mass-ply-products/mass-ply-panel/" class="drilldown-item">Mass Ply Panel</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25730 nav-item"><a title="Mass Ply Lam" href="https://frereswood.com/products-and-services/mass-ply-products/mass-ply-lam/" class="drilldown-item">Mass Ply Lam</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25729 nav-item"><a title="Mass Ply Industrial" href="https://frereswood.com/products-and-services/mass-ply-products/industrial-materials/" class="drilldown-item">Mass Ply Industrial</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25727 nav-item"><a title="Characteristics" href="https://frereswood.com/products-and-services/mass-ply-products/characteristics/" class="drilldown-item">Characteristics</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25732 nav-item"><a title="MPL Calculator" href="https://frereswood.com/products-and-services/mass-ply-products/mpl-beam-calculator/" class="drilldown-item">MPL Calculator</a></li>
+		<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25728 nav-item"><a title="FAQs" href="https://frereswood.com/products-and-services/mass-ply-products/faqs/" class="drilldown-item">FAQs</a></li>
+	</ul>
+</li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13595 nav-item"><a title="Plywood" href="https://frereswood.com/products-and-services/plywood/" class="drilldown-item">Plywood</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13597 nav-item"><a title="Veneer" href="https://frereswood.com/products-and-services/veneer/" class="drilldown-item">Veneer</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13593 nav-item"><a title="Lumber" href="https://frereswood.com/products-and-services/lumber/" class="drilldown-item">Lumber</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13592 nav-item"><a title="Ag Products" href="https://frereswood.com/products-and-services/other-services/" class="drilldown-item">Ag Products</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25697 nav-item"><a title="Trucking" href="https://frereswood.com/products-and-services/trucking/" class="drilldown-item">Trucking</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25698 nav-item"><a title="Sustainability" href="https://frereswood.com/products-and-services/sustainability/" class="drilldown-item">Sustainability</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-25736 nav-item"><span title="Connect" toggle="1" class="drilldown-toggle nav-link">Connect</span>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13602 nav-item"><a title="Careers" href="https://frereswood.com/careers/" class="drilldown-item">Careers</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13604 nav-item"><a title="Contact" href="https://frereswood.com/contact-us/" class="drilldown-item">Contact</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13598 nav-item"><a title="Media" href="https://frereswood.com/news/" class="drilldown-item">Media</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13601" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8213 current_page_item current_page_parent current-menu-ancestor current-menu-parent current_page_ancestor menu-item-has-children dropdown active menu-item-13601 nav-item"><span title="News" toggle="1" class="drilldown-toggle nav-link" aria-current="page">News</span>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-28348" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8213 current_page_item current_page_parent active menu-item-28348 nav-item"><a title="Blog" href="https://frereswood.com/blog/" class="drilldown-item" aria-current="page">Blog</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-28346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28346 nav-item"><a title="News Releases" href="https://frereswood.com/news/news-releases/" class="drilldown-item">News Releases</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-28347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28347 nav-item"><a title="Freres in the News" href="https://frereswood.com/news/in-the-news/" class="drilldown-item">Freres in the News</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-20108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20108 nav-item"><a title="Resources" href="https://frereswood.com/resources/" class="nav-link">Resources</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-26072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26072 nav-item"><a title="Projects" href="/project" class="nav-link">Projects</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-29126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29126 nav-item"><a title="Shop" href="https://frereswood.com/shop/" class="nav-link">Shop</a></li>
+</ul></div>
+        </div>
+        <div class="offcanvas-footer">
+          <div class="social-group">
+  <ul class="social-group__list">
+    <li class="social-group__list-item social-group__list-item--facebook"><a class="social-group__link" href="https://www.facebook.com/freresengineeredwood" title="Facebook" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" alt="facebook logo"></noscript></noscript></noscript></span></a><li class="social-group__list-item social-group__list-item--youtube"><a class="social-group__link" href="https://www.youtube.com/frereswood" title="Youtube" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" alt="Youtube logo"></noscript></noscript></noscript></span></a></li
+    ></li><li class="social-group__list-item social-group__list-item--instagram"><a class="social-group__link" href="https://www.instagram.com/freresengineeredwood" title="Instagram" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" alt="instagram logo"></noscript></noscript></noscript></span></a></li><li class="social-group__list-item social-group__list-item--linkedin"><a class="social-group__link" href="https://www.linkedin.com/company/freres-engineered-wood" title="LinkedIn" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" alt="linkedin logo"></noscript></noscript></noscript></span></a></li>
+  </ul>
+</div><!--/social__group-->
+        </div>
+      </div>
+
+		</div><!-- .container -->
+	</nav><!-- .site-navigation -->
+
+<div class="modal fade modal-search" id="modal-search" tabindex="-1" role="dialog" aria-labelledby="search" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+
+        <form method="get" id="searchform-modal" action="https://frereswood.com/" role="search">
+          <label for="s">Type and press “Enter” to search.</label>
+          <input class="field form-control searchform__input" id="s" name="s" type="text" value="">
+        </form>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+      <div class="container">
+    		<div class="row">
+    			<div class="col-12">
+
+        		
+        			<header class="entry-header pg-header pg-header--archive">
+                                                <h1 class="entry-title pg-header__hdr pg-header__hdr--archive ">Blog</h1>
+                <div class="filters filters--news">
+
+          				<select  name='cat' id='select-news-category' class='filter filter--news-category form-select select-news-category select-nav select-cat-term-id'>
+	<option value='all'>Select a Category</option>
+	<option class="level-0" value="26">Company News&nbsp;&nbsp;(57)</option>
+	<option class="level-0" value="27">Industry News&nbsp;&nbsp;(64)</option>
+	<option class="level-0" value="28">Market Update&nbsp;&nbsp;(55)</option>
+	<option class="level-0" value="29">Market Report&nbsp;&nbsp;(49)</option>
+	<option class="level-0" value="30">Markets&nbsp;&nbsp;(73)</option>
+	<option class="level-0" value="31">Products&nbsp;&nbsp;(59)</option>
+	<option class="level-0" value="55">Technology&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="91">Community&nbsp;&nbsp;(17)</option>
+</select>
+
+                  <span class="filters__or">-or-</span>
+
+                  <select class="filter filter--news-years form-select select-news-year select-nav" id="select-news-year" name="select-news-year">
+                    <option value="https://frereswood.com/blog/">Select a Year</option>
+                    	<option value='https://frereswood.com/blog/2023/'> 2023 &nbsp;(22)</option>
+	<option value='https://frereswood.com/blog/2022/'> 2022 &nbsp;(39)</option>
+	<option value='https://frereswood.com/blog/2021/'> 2021 &nbsp;(43)</option>
+	<option value='https://frereswood.com/blog/2020/'> 2020 &nbsp;(43)</option>
+	<option value='https://frereswood.com/blog/2019/'> 2019 &nbsp;(39)</option>
+	<option value='https://frereswood.com/blog/2018/'> 2018 &nbsp;(38)</option>
+	<option value='https://frereswood.com/blog/2017/'> 2017 &nbsp;(33)</option>
+	<option value='https://frereswood.com/blog/2016/'> 2016 &nbsp;(31)</option>
+	<option value='https://frereswood.com/blog/2015/'> 2015 &nbsp;(6)</option>
+                  </select>
+
+                  <a class="blog-subscribe btn btn-primary" href="#infobox--news-subscribe">Subscribe</a>
+
+                </div>
+        			</header><!-- .pg-header -->
+
+                            <div class="row">
+        			                      <div class="col-12">
+                      
+<article id="post-29139" class="excerpt excerpt--featured post-29139 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-industry-news category-market-report category-markets category-products tag-1510-webster tag-engineered-wood tag-habit-conservation-plan tag-industry-news tag-lumber tag-lvl tag-market-update tag-mpp tag-mass-ply-panel tag-mass-timber tag-minnesota-places tag-oregon tag-oriented-strand-board tag-owow tag-plywood tag-plywood-prices tag-private-forest-accord tag-recession tag-salem-public-works tag-veneer">
+
+    <div class="row">
+    <div class="col-12 col-md-8">
+
+    	
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/wood-products-industry-market-report/" aria-hidden="true" tabindex="-1">
+				<img width="799" height="533"   alt="woods product industry" decoding="async" data-src="https://frereswood.com/wp-content/uploads/2023/06/51929070394_ebdd71f7d3_c.jpg" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="799" height="533" src="https://frereswood.com/wp-content/uploads/2023/06/51929070394_ebdd71f7d3_c.jpg" class="attachment-medium size-medium wp-post-image" alt="woods product industry" decoding="async" /></noscript>      </a>
+		</figure>
+
+			
+    </div><!-- /.col -->
+    <div class="col-12 col-md-4">
+
+    	<header class="excerpt__header">
+        <p class="topic">Featured</p>
+        <h2 class="excerpt__header__hdr">Market Report: Optimism and Challenges in the Wood Products Industry</h2>
+    	</header>
+
+    	<p class="excerpt__content">
+    		May was a sunny, beautiful month in Oregon! When the year started it seemed like the rain would never...    	</p>
+      <p class="excerpt_readmore">
+        <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/wood-products-industry-market-report/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+      </p>
+
+    </div><!-- /.col -->
+  </div><!-- /.row -->
+
+</article><!-- #post-29139 -->
+                      </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29131" class="excerpt post-29131 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-company-news tag-engineered-wood tag-freres-wood tag-mpp tag-mass-ply-panel tag-mass-timber tag-oregon tag-plywood-mill tag-portland tag-veneer tag-wood-structures">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/upgrades-at-freres-facilities/" aria-hidden="true" tabindex="-1">
+				<img width="1000" height="750"   alt="Upgrades at Freres Facilities" decoding="async" loading="lazy" data-srcset="https://frereswood.com/wp-content/uploads/2023/06/IMG_0845-1000x750.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/06/IMG_0845-2000x1500.jpg 2000w"  data-src="https://frereswood.com/wp-content/uploads/2023/06/IMG_0845-1000x750.jpg" data-sizes="(max-width: 1000px) 100vw, 1000px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1000" height="750" src="https://frereswood.com/wp-content/uploads/2023/06/IMG_0845-1000x750.jpg" class="attachment-medium size-medium wp-post-image" alt="Upgrades at Freres Facilities" decoding="async" loading="lazy" srcset="https://frereswood.com/wp-content/uploads/2023/06/IMG_0845-1000x750.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/06/IMG_0845-2000x1500.jpg 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Breaking Ground: Inside the Upgrades at Freres Facilities</h2>
+	</header>
+
+  <p class="excerpt__content">
+    We've been pretty busy here at our operations over the past few months, juggling multiple capital improvement projects that...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/upgrades-at-freres-facilities/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29131 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29111" class="excerpt post-29111 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-industry-news category-market-update category-markets tag-commodity-plywood-and-panel-markets tag-lumber tag-lumber-market tag-market-update tag-panel-market tag-plywood tag-plywood-market">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/prove-it-to-me-market/" aria-hidden="true" tabindex="-1">
+				<img width="799" height="533"   alt="prove-it-to-me market" decoding="async" loading="lazy" data-src="https://frereswood.com/wp-content/uploads/2023/05/45690400821_2454e4ae1a_c.jpg" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="799" height="533" src="https://frereswood.com/wp-content/uploads/2023/05/45690400821_2454e4ae1a_c.jpg" class="attachment-medium size-medium wp-post-image" alt="prove-it-to-me market" decoding="async" loading="lazy" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Market Update: The “Prove-it-to-Me” Environment</h2>
+	</header>
+
+  <p class="excerpt__content">
+    The commodity plywood markets have basically marched in place over the past few weeks, with minimal price adjustments. Recent...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/prove-it-to-me-market/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29111 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29096" class="excerpt post-29096 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-community category-technology tag-engineered-wood tag-freres-wood tag-low-band-vhf-radios tag-oregon tag-plywood tag-plywood-prices tag-radio tag-radio-repeater tag-radio-repeater-technology tag-santiam-canyon tag-wilderness-communication">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/powering-communication-in-the-wilderness/" aria-hidden="true" tabindex="-1">
+				<img width="1000" height="750"   alt="Radio repeater technology" decoding="async" loading="lazy" data-srcset="https://frereswood.com/wp-content/uploads/2023/05/IMG_010518-1000x750.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/05/IMG_010518-2000x1500.jpg 2000w"  data-src="https://frereswood.com/wp-content/uploads/2023/05/IMG_010518-1000x750.jpg" data-sizes="(max-width: 1000px) 100vw, 1000px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1000" height="750" src="https://frereswood.com/wp-content/uploads/2023/05/IMG_010518-1000x750.jpg" class="attachment-medium size-medium wp-post-image" alt="Radio repeater technology" decoding="async" loading="lazy" srcset="https://frereswood.com/wp-content/uploads/2023/05/IMG_010518-1000x750.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/05/IMG_010518-2000x1500.jpg 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Powering Communication in the Wilderness: Radio Repeater Technology and our Low-Band VHF Radios</h2>
+	</header>
+
+  <p class="excerpt__content">
+    Communicating with others is an essential part of our daily routine, and most of us rely on cell phones...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/powering-communication-in-the-wilderness/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29096 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29066" class="excerpt post-29066 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-industry-news category-market-report category-markets category-products tag-1510-webster tag-engineered-wood tag-habit-conservation-plan tag-industry-news tag-lumber tag-lvl tag-market-update tag-mpp tag-mass-ply-panel tag-mass-timber tag-minnesota-places tag-oregon tag-oriented-strand-board tag-owow tag-plywood tag-plywood-prices tag-private-forest-accord tag-recession tag-salem-public-works tag-veneer">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/plywood-market-impending-recession/" aria-hidden="true" tabindex="-1">
+				<img width="799" height="533"   alt="plywood market and the impending recession" decoding="async" loading="lazy" data-src="https://frereswood.com/wp-content/uploads/2023/05/51929097753_987a23f919_c.jpg" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="799" height="533" src="https://frereswood.com/wp-content/uploads/2023/05/51929097753_987a23f919_c.jpg" class="attachment-medium size-medium wp-post-image" alt="plywood market and the impending recession" decoding="async" loading="lazy" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Market Report: Plywood and LVL Markets Consistent Despite Impending Recession</h2>
+	</header>
+
+  <p class="excerpt__content">
+    Spring has arrived and we are thankful for a little bit of sunshine, regardless of how fleeting it is....  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/plywood-market-impending-recession/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29066 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29054" class="excerpt post-29054 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-community category-products tag-architecture tag-brb tag-buckling-restrained-braces tag-earthquake tag-engineered-wood tag-freres-wood tag-industry-news tag-lumber tag-lvl tag-mpp tag-mass-ply-panel tag-mpp-products tag-mass-timber tag-oregon tag-plywood tag-plywood-prices tag-portland tag-structure tag-tbrb tag-timber-buckling-restrained-braces tag-university-of-utah tag-veneer tag-wood-structures">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/mass-ply-timber-buckling-restrained-braces/" aria-hidden="true" tabindex="-1">
+				<img width="1000" height="840"   alt="Mass Ply in Timber Buckling Restrained Braces" decoding="async" loading="lazy" data-srcset="https://frereswood.com/wp-content/uploads/2023/05/20230320_171415977_iOS-1000x840.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/05/20230320_171415977_iOS-2000x1680.jpg 2000w"  data-src="https://frereswood.com/wp-content/uploads/2023/05/20230320_171415977_iOS-1000x840.jpg" data-sizes="(max-width: 1000px) 100vw, 1000px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1000" height="840" src="https://frereswood.com/wp-content/uploads/2023/05/20230320_171415977_iOS-1000x840.jpg" class="attachment-medium size-medium wp-post-image" alt="Mass Ply in Timber Buckling Restrained Braces" decoding="async" loading="lazy" srcset="https://frereswood.com/wp-content/uploads/2023/05/20230320_171415977_iOS-1000x840.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/05/20230320_171415977_iOS-2000x1680.jpg 2000w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Mass Ply in Timber Buckling Restrained Braces</h2>
+	</header>
+
+  <p class="excerpt__content">
+    Wood is, yet again, involved in an innovative product that University of Utah is designing and researching: the first...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/mass-ply-timber-buckling-restrained-braces/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29054 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29049" class="excerpt post-29049 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-industry-news category-market-update category-markets tag-commodity-plywood-and-panel-markets tag-lumber tag-lumber-market tag-market-update tag-panel-market tag-plywood tag-plywood-market">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/weather-and-plywood-market/" aria-hidden="true" tabindex="-1">
+				<img width="799" height="533"   alt="Weather and Plywood" decoding="async" loading="lazy" data-src="https://frereswood.com/wp-content/uploads/2023/04/51929456774_2ef956ed5a_c.jpg" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="799" height="533" src="https://frereswood.com/wp-content/uploads/2023/04/51929456774_2ef956ed5a_c.jpg" class="attachment-medium size-medium wp-post-image" alt="Weather and Plywood" decoding="async" loading="lazy" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Market Update: Weather and the Plywood Market</h2>
+	</header>
+
+  <p class="excerpt__content">
+    The Western plywood commodity market bottomed out a couple of weeks ago, and has since regained some lost ground...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/weather-and-plywood-market/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29049 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29041" class="excerpt post-29041 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-community category-company-news tag-161 tag-community tag-freres-lumber tag-freres-wood tag-happy-new-year tag-holiday tag-konecranes tag-lyons-oregon tag-manufacturing tag-mpp tag-oregon tag-oregon-business tag-oregon-forest tag-santiam-canyon">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/earth-day-2023/" aria-hidden="true" tabindex="-1">
+				<img width="800" height="450"   alt="earth day 2023" decoding="async" loading="lazy" data-src="https://frereswood.com/wp-content/uploads/2023/04/52006706371_b398609bf1_c.jpg" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="800" height="450" src="https://frereswood.com/wp-content/uploads/2023/04/52006706371_b398609bf1_c.jpg" class="attachment-medium size-medium wp-post-image" alt="earth day 2023" decoding="async" loading="lazy" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Note from the President: How We Celebrate Earth Day Year ’Round</h2>
+	</header>
+
+  <p class="excerpt__content">
+    We strive for zero waste in our operations, and we take pride in our stewardship of forestlands. More than...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/earth-day-2023/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29041 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29033" class="excerpt post-29033 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-industry-news category-market-report category-markets category-products tag-engineered-wood tag-industry-news tag-lumber tag-lvl tag-market-update tag-mpp tag-mass-ply-panel tag-mass-timber tag-oriented-strand-board tag-plywood tag-plywood-prices tag-veneer">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/oregon-snowpack-and-wood-products-market/" aria-hidden="true" tabindex="-1">
+				<img width="799" height="533"   alt="oregon snowpack and wood products" decoding="async" loading="lazy" data-src="https://frereswood.com/wp-content/uploads/2023/04/51928709351_c5b2876357_c.jpg" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="799" height="533" src="https://frereswood.com/wp-content/uploads/2023/04/51928709351_c5b2876357_c.jpg" class="attachment-medium size-medium wp-post-image" alt="oregon snowpack and wood products" decoding="async" loading="lazy" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">Market Report: Oregon Snowpack and the Wood Products Market</h2>
+	</header>
+
+  <p class="excerpt__content">
+    It was still snowing in Lyons, Oregon as we moved into April. This winter weather has been persistent. The...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/oregon-snowpack-and-wood-products-market/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29033 -->
+                    </div><!-- /.col -->
+                                      <div class="col-12 col-md-6 col-lg-4">
+                    <article id="post-29000" class="excerpt post-29000 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-community category-products tag-architecture tag-engineered-wood tag-freres-wood tag-industry-news tag-lumber tag-lvl tag-mpp tag-mass-ply-panel tag-mpp-products tag-mass-timber tag-mass-timber-conference tag-mass-timber-construction tag-oregon tag-plywood tag-plywood-prices tag-portland tag-veneer tag-wood-structures">
+
+  
+		<figure class="post-thumbnail">
+			<a class="post-thumbnail-inner" href="https://frereswood.com/blog/mass-timber-conference-2023/" aria-hidden="true" tabindex="-1">
+				<img width="1000" height="750"   alt="mass timber conference 2023" decoding="async" loading="lazy" data-srcset="https://frereswood.com/wp-content/uploads/2023/04/ap3-1000x750.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/04/ap3.jpg 1430w"  data-src="https://frereswood.com/wp-content/uploads/2023/04/ap3-1000x750.jpg" data-sizes="(max-width: 1000px) 100vw, 1000px" class="attachment-medium size-medium wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1000" height="750" src="https://frereswood.com/wp-content/uploads/2023/04/ap3-1000x750.jpg" class="attachment-medium size-medium wp-post-image" alt="mass timber conference 2023" decoding="async" loading="lazy" srcset="https://frereswood.com/wp-content/uploads/2023/04/ap3-1000x750.jpg 1000w, https://frereswood.com/wp-content/uploads/2023/04/ap3.jpg 1430w" sizes="(max-width: 1000px) 100vw, 1000px" /></noscript>      </a>
+		</figure>
+
+			
+	<header class="excerpt__header">
+    <h2 class="excerpt__header__hdr h3">It’s a Wrap: Mass Timber Conference 2023</h2>
+	</header>
+
+  <p class="excerpt__content">
+    Now that the dust has settled, we’re excited to reflect on our great experience at the 2023 International Mass...  </p>
+  <p class="excerpt_readmore">
+    <a class="btn-readmore stretched-link" href="https://frereswood.com/blog/mass-timber-conference-2023/">Read more <span class="btn-readmore__icon btn-readmore__icon--arrow"><svg viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.759 8.349h18.5m-6.7-6.457l7.1 6.457-7.1 6.543" stroke="#742E02" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/></svg></span></a>
+  </p>
+
+</article><!-- #post-29000 -->
+                    </div><!-- /.col -->
+                  
+		<nav class="pagination-wrap " aria-label="Posts navigation">
+
+			<ul class="pagination">
+
+									<li class="page-item active">
+						<span aria-current="page" class="page-link current">1</span>					</li>
+										<li class="page-item ">
+						<a class="page-link" href="https://frereswood.com/blog/page/2/">2</a>					</li>
+										<li class="page-item ">
+						<span class="page-link dots">&hellip;</span>					</li>
+										<li class="page-item ">
+						<a class="page-link" href="https://frereswood.com/blog/page/29/">29</a>					</li>
+										<li class="page-item ">
+						<a class="page-link" href="https://frereswood.com/blog/page/30/">30</a>					</li>
+										<li class="page-item ">
+						<a class="next page-link" href="https://frereswood.com/blog/page/2/"><span class="icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.01 36.01"><path id="circle" d="M18 36A18 18 0 100 18a18 18 0 0018 18z" fill="#742e02"/><path id="arrow" d="M0 19h23.4l-7.3 7.24a.87.87 0 000 1.26.83.83 0 00.64.28.79.79 0 00.63-.28l8.87-8.86a.88.88 0 000-1.27L17.37 8.5a.82.82 0 00-.63-.27.92.92 0 00-.91.91.82.82 0 00.27.63l7.42 7.42H0V19z" fill="#fff"/></svg></span></a>					</li>
+					
+			</ul>
+
+		</nav>
+
+		            </div><!-- /.row -->
+
+            <div class="infobox infobox--news-subscribe" id="infobox--news-subscribe">
+  <h3 class="infobox__hdr">Subscribe</h3>
+  <p class="infobox__desc">We’ll send you a notification when a new story has been posted. It’s the easiest way to stay in the know.</p>
+  
+		<div class="emaillist">
+			<form action="#" method="post" class="es_subscription_form es_shortcode_form" id="es_subscription_form_6490982e65b3a" data-source="ig-es">
+								<div class="es-field-wrap"><label><br /><input type="text" name="name" class="ig_es_form_field_name" placeholder="Name" value="" required="required" /></label></div><div class="es-field-wrap"><label><input class="es_required_field es_txt_email ig_es_form_field_email" type="email" name="email" value="" placeholder="Email" required="required" /></label></div><input type="hidden" name="lists[]" value="2" /><input type="hidden" name="form_id" value="1" />
+				<input type="hidden" name="es_email_page" value="29000"/>
+				<input type="hidden" name="es_email_page_url" value="https://frereswood.com/blog/mass-timber-conference-2023/"/>
+				<input type="hidden" name="status" value="Unconfirmed"/>
+				<input type="hidden" name="es-subscribe" id="es-subscribe" value="37e49926dd"/>
+				<label style="position:absolute;top:-99999px;left:-99999px;z-index:-99;"><input type="email" name="es_hp_email" class="es_required_field" tabindex="-1" autocomplete="-1" value=""/></label>
+								<input type="submit" name="submit" class="es_subscription_form_submit es_submit_button es_textbox_button" id="es_subscription_form_submit_6490982e65b3a" value="Subscribe"/>
+
+				
+				<span class="es_spinner_image" id="spinner-image"><img  alt="Loading" data-src="https://frereswood.com/wp-content/plugins/email-subscribers-premium/lite/public/images/spinner.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://frereswood.com/wp-content/plugins/email-subscribers-premium/lite/public/images/spinner.gif" alt="Loading"/></noscript></span>
+
+			</form>
+
+			<span class="es_subscription_message" id="es_subscription_message_6490982e65b3a"></span>
+		</div>
+
+		</div>
+
+        </div><!-- /.col -->
+      </div><!-- /.row -->
+    </div><!-- /.container -->
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+
+      
+      
+			<!-- footer -->
+			<footer class="footer">
+        <div class="container">
+      		<div class="row">
+      			<div class="col-12 col-md-6">
+
+              <div class="social-group">
+  <ul class="social-group__list">
+    <li class="social-group__list-item social-group__list-item--facebook"><a class="social-group__link" href="https://www.facebook.com/freresengineeredwood" title="Facebook" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="facebook logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-facebook.svg" alt="facebook logo"></noscript></noscript></noscript></span></a><li class="social-group__list-item social-group__list-item--youtube"><a class="social-group__link" href="https://www.youtube.com/frereswood" title="Youtube" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="Youtube logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-youtube.svg" alt="Youtube logo"></noscript></noscript></noscript></span></a></li
+    ></li><li class="social-group__list-item social-group__list-item--instagram"><a class="social-group__link" href="https://www.instagram.com/freresengineeredwood" title="Instagram" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="instagram logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-instagram.svg" alt="instagram logo"></noscript></noscript></noscript></span></a></li><li class="social-group__list-item social-group__list-item--linkedin"><a class="social-group__link" href="https://www.linkedin.com/company/freres-engineered-wood" title="LinkedIn" target="_blank" rel="noopener"><span class="social-group__link-icon"><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33"  alt="linkedin logo" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="34" height="33" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/icon-social-linkedin.svg" alt="linkedin logo"></noscript></noscript></noscript></span></a></li>
+  </ul>
+</div><!--/social__group-->
+
+              <div class="footer__nav">
+
+              <h4 class="footer-nav__hdr">Connect</h4>
+        			<div class="footer__nav__menu-wrap"><ul id="footer-menu" class="footer-menu footer__nav__menu nav flex-column"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25616 nav-item"><a title="Careers" href="https://frereswood.com/careers/" class="nav-link">Careers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25617 nav-item"><a title="Contact Us" href="https://frereswood.com/contact-us/" class="nav-link">Contact Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25618 nav-item"><a title="Media" href="https://frereswood.com/news/" class="nav-link">Media</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-25621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25621 nav-item"><a title="Submit Project Photos" href="https://frereswood.com/submit-project-photos/" class="nav-link">Submit Project Photos</a></li>
+</ul></div>              </div><!--/footer__nav-->
+
+      			</div><!-- /.col -->
+      			<div class="col-12 col-md-6">
+
+                                          <div class="row g-0">
+                <div class="col-12 col-md-4">
+
+                  <p class="footer__frs-logomark"><img width="97" height="46"  alt="Freres logomark" data-src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/frs-logomark.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img width="97" height="46" src="https://frereswood.com/wp-content/themes/cardwellpress/assets/img/frs-logomark.svg" alt="Freres logomark"></noscript></p>
+
+                </div><!-- /.col -->
+                <div class="col-12 col-md-8">
+
+                  <address class="footer__address">
+                    <strong class="footer__address-name">Freres Engineered Wood</strong><br>
+                    <span class="footer__address-street">PO Box 276</span>
+                    <span class="footer__bullet">&bull;</span>
+                    <span class="footer__address-city-state-zip">Lyons, OR 97358</span>
+                  </address>
+                  <p class="footer__contact">
+                    <span class="footer__phone">(503) 859-2121</span>
+                    <span class="footer__bullet">&bull;</span>
+                    <span class="footer__email safe-email" data-config="mail"><span class="safe-email-title">Email Us</span> <span class="safe-email-target">(info[at]frereswood[dot]com)</span></span>
+                  </p>
+
+                </div><!-- /.col -->
+              </div><!-- /.row -->
+              
+      			</div><!-- /.col -->
+      		</div><!-- /.row -->
+      		<div class="row">
+      			<div class="col-12">
+
+                <p class="footer__copyright">
+                  &copy;2023 Freres Engineered Wood. All rights reserved. <span class="footer__bullet">&bull;</span> <a href="https://frereswood.com/privacy">Privacy</a>
+                </p>
+
+      			</div><!-- /.col -->
+      		</div><!-- /.row -->
+        </div><!-- /.container -->
+			</footer><!-- /footer -->
+
+		<div class="ttt-pnwc-modal micromodal-slide" id="ttt-pnwc-notice" aria-hidden="true">
+	<div class="ttt-pnwc-overlay" data-micromodal-close>
+		<div class="ttt-pnwc-container" role="dialog" aria-labelledby="modal-1-title">
+			<div class="ttt-pnwc-wrapper">
+				<header class="ttt-pnwc-header"><button class="ttt-pnwc-close" aria-label="Close modal" data-micromodal-close></button></header>
+				<div class="ttt-pnwc-content" id="modal-1-content" data-content="true"></div>
+				<footer class="ttt-pnwc-footer"></footer>
+			</div>
+		</div>
+	</div>
+</div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' id='safe-svg-block-script-js-extra'>
+/* <![CDATA[ */
+var safe_svg_personalizer_params = {"ajax_url":"https:\/\/frereswood.com\/wp-admin\/admin-ajax.php","ajax_nonce":"34dbab808f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/safe-svg/dist/safe-svg-block-frontend.js?ver=556b801b5c62d7bda047' id='safe-svg-block-script-js'></script>
+<script type='text/javascript' src='https://unpkg.com/micromodal/dist/micromodal.min.js?ver=6.1.3' id='ttt_pnwc_micromodal-js'></script>
+<script type='text/javascript' id='ttt-pnwc-js-extra'>
+/* <![CDATA[ */
+var ttt_pnwc_info = {"icon_default_class":"default-icon","error_icon_class":"","info_icon_class":"","success_icon_class":"","click_inside_close":"no","types":{"error":"yes","info":"yes","success":"yes"},"ajax_opt":"yes","cookie_opt":{"enabled":"no","time":0.5,"message_origin":"static"},"auto_close_time":"0","auto_close_types":[],"ignored_msg":{"field":["<p><\/p>"],"search_method":"partial_comparison","regex_flags":"i"},"audio":{"enabled":"no","opening":"","closing":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/popup-notices-for-woocommerce/src/assets/dist/frontend/js/ttt-pnwc.min.js?ver=230327-223628' id='ttt-pnwc-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.5.1' id='jquery-blockui-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.5.1' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.5.1' id='woocommerce-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/wp-util.min.js?ver=6.1.3' id='wp-util-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/frereswood.com\/wp-json\/","nonce":"d92afd9c3f","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/api-request.min.js?ver=6.1.3' id='wp-api-request-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7' id='wp-url-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://frereswood.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "d92afd9c3f" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://frereswood.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' id='woo-variation-swatches-js-extra'>
+/* <![CDATA[ */
+var woo_variation_swatches_options = {"show_variation_label":"1","clear_on_reselect":"","variation_label_separator":":","is_mobile":"","show_variation_stock":"","stock_label_threshold":"5","cart_redirect_after_add":"no","enable_ajax_add_to_cart":"no","cart_url":"https:\/\/frereswood.com\/cart\/","is_cart":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1679956278' id='woo-variation-swatches-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/themes/cardwellpress/assets/js/theme.min.js?ver=1.8.0.1683058724' id='cardwellpress-scripts-js'></script>
+<script type='text/javascript' id='es_starter_main_js-js-extra'>
+/* <![CDATA[ */
+var ig_es_starter_main_js_params = {"show_opt_in_consent":"yes","session_tracking_enabled":"yes","consent_opt_in_message":"","consent_opt_out_message":"No Thanks","conset_after_opt_out_message":"You won't receive further emails from us, thank you!","ajax_url":"https:\/\/frereswood.com\/wp-admin\/admin-ajax.php","security":"58bef05fce"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/email-subscribers-premium/starter/assets/js/starter-main.js?ver=4.6.6' id='es_starter_main_js-js'></script>
+<script type='text/javascript' src='https://frereswood.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.12.6' id='smush-lazy-load-js'></script>
+
+	</body>
+</html>
+<!-- Hummingbird cache file was created in 0.62897610664368 seconds, on 19-06-23 18:02:22 -->
